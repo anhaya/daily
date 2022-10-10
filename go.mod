@@ -1,4 +1,4 @@
-module example.com/order_similarity
+module example.com/daily
 
 go 1.16
 
